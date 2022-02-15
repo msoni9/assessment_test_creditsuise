@@ -1,0 +1,7 @@
+/.gradle/
+/.idea/
+/build/
+/hsqldb/
+/out/
+/$HOME
+Logs.txt
